@@ -9,7 +9,7 @@ try:
     gmail_account = "herentongkegu087@gmail.com"
 
     # 自分のGoogleアカウントのパスワード
-    gmail_password = "Kirigayakazuto1"
+    gmail_password = "KirigayaMikkisanhaaho"
 
     # メールの送信先
     mail_to = "herentongkegu087@gmail.com"
